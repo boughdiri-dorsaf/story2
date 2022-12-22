@@ -1,3 +1,5 @@
 This is a file for chapter 1 test.
 
-This is a grea story !
+This is a great story !
+
+An import chapter for our month !
